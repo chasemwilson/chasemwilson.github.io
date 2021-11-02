@@ -22,12 +22,12 @@ body {
 }
 
 h1 {
-    color: #757699;
+    color: #3D3D3D;
     text-align:center;
 }
 
 h1:hover {
-    color:#F2D194;
+    color:#FBF37C;
 }
 
 a {
@@ -36,5 +36,5 @@ a {
 }
 
 a:hover {
-    color:#9C9ECC;
+    color:#F2D194;
 }
